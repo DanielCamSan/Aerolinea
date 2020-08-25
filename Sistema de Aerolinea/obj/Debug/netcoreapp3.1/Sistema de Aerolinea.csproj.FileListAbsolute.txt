@@ -1,0 +1,13 @@
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\obj\Debug\netcoreapp3.1\Sistema de Aerolinea.csprojAssemblyReference.cache
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\obj\Debug\netcoreapp3.1\Sistema de Aerolinea.AssemblyInfoInputs.cache
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\obj\Debug\netcoreapp3.1\Sistema de Aerolinea.AssemblyInfo.cs
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\obj\Debug\netcoreapp3.1\Sistema de Aerolinea.csproj.CoreCompileInputs.cache
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\bin\Debug\netcoreapp3.1\Sistema de Aerolinea.exe
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\bin\Debug\netcoreapp3.1\Sistema de Aerolinea.deps.json
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\bin\Debug\netcoreapp3.1\Sistema de Aerolinea.runtimeconfig.json
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\bin\Debug\netcoreapp3.1\Sistema de Aerolinea.runtimeconfig.dev.json
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\bin\Debug\netcoreapp3.1\Sistema de Aerolinea.dll
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\bin\Debug\netcoreapp3.1\Sistema de Aerolinea.pdb
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\obj\Debug\netcoreapp3.1\Sistema de Aerolinea.dll
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\obj\Debug\netcoreapp3.1\Sistema de Aerolinea.pdb
+C:\Users\59177\Desktop\6 Semestre\Tec Web\Proyecto C#\Sistema de Aerolinea\Sistema de Aerolinea\obj\Debug\netcoreapp3.1\Sistema de Aerolinea.genruntimeconfig.cache
